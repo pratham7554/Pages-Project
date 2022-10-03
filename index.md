@@ -31,7 +31,7 @@ To stay updates we could use Task Lists as:
 
 ### LeBron James
 
-LeBron James's Twitter account is [Twitter](https://twitter.com/KingJames?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+LeBron James's Twitter handle is [Twitter](https://twitter.com/KingJames?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 ![This is an image](https://upload.wikimedia.org/wikipedia/commons/b/bf/LeBron_James_-_51959723161_%28cropped%29.jpg)
 
